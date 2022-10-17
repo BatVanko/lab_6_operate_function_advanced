@@ -1,0 +1,1 @@
+# lab_6_operate_function_advanced
